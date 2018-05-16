@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/danivijay/react-redux-teaching/issues"
   },
-  "homepage": "https://github.com/danivijay/react-redux-teaching#readme"
+  "homepage": "https://github.com/danivijay/react-redux-teaching#readme",
+  "dependencies": {
+    "redux": "4.0.0"
+  }
 }
